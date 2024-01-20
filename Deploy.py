@@ -5,7 +5,7 @@ from surprise import Reader, Dataset, KNNBasic
 
 # Loading the final_ratings and books datasets
 final_ratings = pd.read_csv("final_ratings.csv")
-books = pd.read_csv("books.csv",encoding="latin-1")
+books = pd.read_csv("Books.csv",encoding="latin-1")
 
 # Loading the User-Item model from the pickle file
 with open('user_based_model.pkl', 'rb') as file:
