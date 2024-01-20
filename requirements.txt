@@ -5,5 +5,4 @@ seaborn
 scikit-learn
 scipy
 surprise
-pickle
 streamlit
