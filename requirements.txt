@@ -1,16 +1,9 @@
-warnings
 pandas
 numpy
 matplotlib
-matplotlib.pyplot
 seaborn
 sklearn
-sklearn.metrics
 scipy
-scipy.spatial.distance
-sklearn.model_selection
 surprise
-surprise.model_selection
-surprise.prediction_algorithms.algo_base
 pickle
 streamlit
